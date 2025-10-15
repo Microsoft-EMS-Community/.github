@@ -8,9 +8,9 @@
 ---
 
 ## 🌐 About the Community
-Welcome to the **Microsoft EMS Community** — a friendly, inclusive space for IT professionals, security engineers, and Microsoft 365 enthusiasts who are passionate about **Enterprise Mobility + Security (EMS)**.
+Welcome to the **Microsoft EMS Community** - a friendly, inclusive space for IT professionals, security engineers, and Microsoft 365 enthusiasts who are passionate about **Enterprise Mobility + Security (EMS)**.
 
-Our goal is to help everyone stay connected, share insights, and learn together across the full Microsoft security and management ecosystem — from **Intune** to **Defender**, **Entra**, and beyond.
+Our goal is to help everyone stay connected, share insights, and learn together across the full Microsoft security and management ecosystem - from **Intune** to **Defender**, **Entra**, and beyond.
 
 Whether you’re just starting your Microsoft journey or you’re deep in deployment and automation, you’ll find value, guidance, and community here.
 
@@ -23,7 +23,7 @@ We share curated content from across the Microsoft ecosystem to help you:
 - Explore best practices for securing, managing, and empowering modern workplaces  
 - Learn from peers, MVPs, and Microsoft experts  
 
-💡 *Our blog platform (GhostCMS) is coming soon — stay tuned!*
+💡 *Our blog platform (GhostCMS) is coming soon - stay tuned!*
 
 ---
 
@@ -40,11 +40,11 @@ We cover the entire Microsoft EMS suite and related technologies:
 
 ## 🤝 How to Get Involved
 Join our growing community and start contributing:
-1. **Join the Discussion** — [Hop into our Discord](https://discord.gg/33W3WEb23g) to share insights, ask questions, and collaborate.  
-2. **Share Your Knowledge** — Write or suggest blog topics, contribute code snippets, or post community guides.  
-3. **Engage on GitHub** — Open issues, contribute resources, and help shape the community’s open projects.  
+1. **Join the Discussion** - [Hop into our Discord](https://discord.gg/33W3WEb23g) to share insights, ask questions, and collaborate.  
+2. **Share Your Knowledge** - Write or suggest blog topics, contribute code snippets, or post community guides.  
+3. **Engage on GitHub** - Open issues, contribute resources, and help shape the community’s open projects.  
 
-We’re stronger together — your voice matters here 💬
+We’re stronger together - your voice matters here 💬
 
 ---
 
@@ -56,6 +56,6 @@ We’re stronger together — your voice matters here 💬
 ---
 
 ### ❤️ Maintained by the Community
-Our discord is proudly powered and maintained **by the Microsoft EMS Community** — for learners, practitioners, and professionals everywhere.
+Our discord is proudly powered and maintained **by the Microsoft EMS Community** - for learners, practitioners, and professionals everywhere.
 
 ---
