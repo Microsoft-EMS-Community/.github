@@ -1,4 +1,4 @@
-![Microsoft EMS Community Banner](/Images/header.png)
+<!--![Microsoft EMS Community Banner](/Images/header.png)-->
 
 # Microsoft EMS Community
 
