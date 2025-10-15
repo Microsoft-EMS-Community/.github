@@ -2,7 +2,7 @@
 
 # Microsoft EMS Community
 
-[![Discord](https://img.shields.io/badge/Join%20us%20on-Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge&link=https://discord.gg/33W3WEb23g)](https://discord.gg/33W3WEb23g)
+[![Discord](https://img.shields.io/badge/Join%20us%20on-Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge&link=https://discord.gg/33W3WEb23g)](https://discord.com/invite/microsoft-ems-community-1008077287813550090)
 [![Blogs](https://img.shields.io/badge/Read-Community%20Blogs-0078D4?logo=ghost&logoColor=white&style=for-the-badge)](https://discord.gg/33W3WEb23g)
 
 ---
