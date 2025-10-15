@@ -1,4 +1,4 @@
-![Microsoft EMS Community Banner](Microsoft-EMS-Community/.github/Images/Header.png)
+![Microsoft EMS Community Banner](https://github.com/Microsoft-EMS-Community/.github/blob/main/Images/Header.png?raw=true)
 
 # Microsoft EMS Community
 
