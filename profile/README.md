@@ -49,9 +49,9 @@ We’re stronger together - your voice matters here 💬
 ---
 
 ## 🔗 Community Links & Socials
-- 💬 **Discord:** [Join here](https://discord.gg/33W3WEb23g)  
-- 📝 **Blogs:** *Coming soon via GhostCMS*  
-- 🧑‍💻 **GitHub:** Explore our repositories and contribute  
+- 💬 **Discord:** [Join here](https://discord.gg/33W3WEb23g)    
+- 🧑‍💻 **GitHub:** Explore our repositories and contribute
+- 📝 **Blogs:** *Coming soon*
 
 ---
 
